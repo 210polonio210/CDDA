@@ -1,0 +1,4 @@
+build type: windows-with-graphics-and-sounds-x64
+build number: 2026-02-09-0611
+commit sha: 133dca5cce6f4519362c3e6a1aa7d24aceda638b
+commit url: https://github.com/CleverRaven/Cataclysm-DDA/commit/133dca5cce6f4519362c3e6a1aa7d24aceda638b
